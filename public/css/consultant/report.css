@@ -1,0 +1,28 @@
+th, td{
+    padding: 5px;
+}
+
+th{
+    background-color: #919191;
+    color: #fff;
+}
+
+td {
+    min-width: 10px;
+}
+
+.table-responsive {
+    margin-top: 20px;
+}
+
+textarea {
+    max-width: 50%;
+}
+
+#main-container {
+    padding: 10px;
+}
+
+.sign-spans{
+    display: inline-block;
+}

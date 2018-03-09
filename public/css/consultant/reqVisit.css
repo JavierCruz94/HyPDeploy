@@ -1,0 +1,35 @@
+.container{
+    width: 25%;
+    height: 100%;
+    float: left;
+
+}
+
+.tableContainer{
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+
+.tableRow{
+    font-weight: bold;
+    margin: auto;
+}
+
+.button{
+    margin-top: 1em;
+
+}
+
+
+.nombreCliente{
+    margin-top: -.5em;
+    margin-left: 1em;
+}
+
+.comentarios{
+    margin-top: -.5em;
+    margin-left: 1em;
+    height: 150px;
+    width: 250px;
+}
